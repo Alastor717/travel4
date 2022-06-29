@@ -6,7 +6,8 @@ body{
 }
 .kostyl{
     background: url(../img/bgsearch.jpg) no-repeat;
-    background-size: cover;
+    /*background-size: cover;*/
+    background-size: contain;
     height: 3735px;
     max-width: 1440px;
     margin: 0 auto;
